@@ -139,4 +139,4 @@ For FVM-managed projects on older Flutter versions, MCP registration is skipped 
 
 ## License
 
-MIT
+[MIT](LICENSE)
